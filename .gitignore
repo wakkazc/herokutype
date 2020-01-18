@@ -31,3 +31,5 @@ config.rb
 !/usr/plugins/HelloWorld
 !/usr/themes/
 !/usr/themes/default
+
+/vendor/
